@@ -70,7 +70,7 @@ const Products = () => {
                                     <Image src={yj3} alt='Secure' />
                                 </figure>
                                 <article className='item_card_body'>
-                                    <h3 className="h3_title text-uppercase">Fill Pvc Splash Bar</h3>
+                                    <h3 className="h3_title ">Fill PVC Splash Bar</h3>
                                     {/* <p className='pera'>MCT Gray Cooling Tower</p> */}
                                     {/* <button className='btn item_card_btn'>View product</button> */}
                                 </article>
@@ -83,7 +83,7 @@ const Products = () => {
                                     <Image src={page2 } alt='Secure' />
                                 </figure>
                                 <article className='item_card_body'>
-                                    <h3 className="h3_title text-uppercase">FRP Cooling Tower Fan</h3>
+                                    <h3 className="h3_title ">FRP Cooling Tower Fan</h3>
                                     {/* <p className='pera'>FRP Cooling Tower Fans</p> */}
                                     {/* <button className='btn item_card_btn'>View product</button> */}
                                 </article>
@@ -95,7 +95,7 @@ const Products = () => {
                                     <Image src={i3} alt='Secure' />
                                 </figure>
                                 <article className='item_card_body'>
-                                    <h3 className="h3_title text-uppercase">Frp Fan Blades</h3>
+                                    <h3 className="h3_title ">FRP Fan Blades</h3>
                                     {/* <p className='pera'>pvc fills for cooling tower</p> */}
                                     {/* <button className='btn item_card_btn'>View product</button> */}
                                 </article>
@@ -107,7 +107,7 @@ const Products = () => {
                                     <Image src={jy1} alt='Secure' />
                                 </figure>
                                 <article className='item_card_body'>
-                                    <h3 className="h3_title text-uppercase">honeycom pvc fills</h3>
+                                    <h3 className="h3_title ">honeycom PVC fills</h3>
                                     {/* <p className='pera'>pvc fills for cooling tower</p> */}
                                     {/* <button className='btn item_card_btn'>View product</button> */}
                                 </article>
@@ -119,7 +119,7 @@ const Products = () => {
                                     <Image src={j2} alt='Secure' />
                                 </figure>
                                 <article className='item_card_body'>
-                                    <h3 className="h3_title text-uppercase">PVC V-Bar</h3>
+                                    <h3 className="h3_title ">PVC V-Bar</h3>
                                     {/* <p className='pera'>pvc fills for cooling tower</p> */}
                                     {/* <button className='btn item_card_btn'>View product</button> */}
                                 </article>
