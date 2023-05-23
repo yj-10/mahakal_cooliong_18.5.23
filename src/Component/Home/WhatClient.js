@@ -104,7 +104,7 @@ const WhatClient = () => {
                         <Col sm={4} md={4} lg={4} xl={4}>
                             <div className='what_client_blog' data-aos="zoom-in-down">
                                 <h3 className='h3_title'> what <br />
-                                    <span>cleint’s</span>  Say</h3>
+                                    <span>client’s</span>  Say</h3>
                             </div>
                         </Col>
                     </Row>
