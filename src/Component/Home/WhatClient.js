@@ -100,13 +100,7 @@ const WhatClient = () => {
                                     </div>
                                 </OwlCarousel>
                             </div>
-                        </Col>
-//                         <Col sm={4} md={4} lg={4} xl={4}>
-//                             <div className='what_client_blog' data-aos="zoom-in-down">
-//                                 <h3 className='h3_title'> what <br />
-//                                     <span>client’s</span>  Say</h3>
-//                             </div>
-//                         </Col>
+           
                     </Row>
                 </Container>
             </section>
