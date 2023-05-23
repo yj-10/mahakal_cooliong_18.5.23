@@ -59,7 +59,7 @@ const WhatClient = () => {
                     </div>
 
                     <Row>
-                        <Col sm={8} md={8} lg={8} xl={8}>
+                        <Col sm={12} md={12} lg={12} xl={12}>
                             <div className='what_client_carousel'>
                                 <OwlCarousel className='owl-theme hero_slider'  {...options}>
                                     <div className='item'>
@@ -101,12 +101,12 @@ const WhatClient = () => {
                                 </OwlCarousel>
                             </div>
                         </Col>
-                        <Col sm={4} md={4} lg={4} xl={4}>
-                            <div className='what_client_blog' data-aos="zoom-in-down">
-                                <h3 className='h3_title'> what <br />
-                                    <span>client’s</span>  Say</h3>
-                            </div>
-                        </Col>
+//                         <Col sm={4} md={4} lg={4} xl={4}>
+//                             <div className='what_client_blog' data-aos="zoom-in-down">
+//                                 <h3 className='h3_title'> what <br />
+//                                     <span>client’s</span>  Say</h3>
+//                             </div>
+//                         </Col>
                     </Row>
                 </Container>
             </section>
